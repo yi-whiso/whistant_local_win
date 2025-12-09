@@ -1,0 +1,6 @@
+# Ignore all dist contents
+dist/
+
+# Keep exe and README at root
+!*.exe
+!README.md
